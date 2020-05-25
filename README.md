@@ -1,5 +1,5 @@
 # CLRS-in-Python
-Real **Python codes** in *Introduction to Algorithm*, 3rd Edition (The MIT Press) by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Riverest and Clifford Stein (CLRS)
+Real **Python codes** in ***Introduction to Algorithm***, 3rd Edition (The MIT Press) by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Riverest and Clifford Stein (**CLRS**)
 ## Actively recruiting contributors: 
 * Beginners who are passionate in Python are also welcome!
 * Want to join this exciting project? Just start from downloading a Jupyter Notebook and learn some Markdown!
