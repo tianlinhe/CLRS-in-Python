@@ -13,7 +13,7 @@ Real **Python codes** in ***Introduction to Algorithm***, 3rd Edition (The MIT P
 11. Hash Tables
   <br>11.1 Direct-address tables `+`
   <br>11.2 Hash tables
-  <br>11.3 Hash functions
+  <br>11.3 Hash functions `+`
  
 * `+` includes Python codes in exercise
 * All the codes were tested locally before upload;
