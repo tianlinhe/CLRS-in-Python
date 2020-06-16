@@ -11,10 +11,10 @@ Real **Python codes** in ***Introduction to Algorithm***, 3rd Edition (The MIT P
   <br>10.4 Representing rooted trees `+`
   
 ### 11. Hash Tables
-  <br>11.1 Direct-address tables `+`
-  <br>11.2 Hash tables
-  <br>11.3 Hash functions `+`
-  <br>11.4 Open addressing `+`
+  11.1 Direct-address tables `+`
+  11.2 Hash tables
+  11.3 Hash functions `+`
+  11.4 Open addressing `+`
   
 ### 12. Binary Search Trees
   <br>12.1 What is a binary search tree `+`
