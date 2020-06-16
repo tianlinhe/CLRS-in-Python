@@ -5,7 +5,7 @@ Real **Python codes** in ***Introduction to Algorithm***, 3rd Edition (The MIT P
 * Want to join this exciting project? Just start from downloading a Jupyter Notebook and learn some Markdown!
 
 ## Chapters covered so far:
-**10. Elementary Data Structures**
+10. Elementary Data Structures
   <br>10.1 Stack and queues `+`
   <br>10.2 Linked lists `+`
   <br>10.4 Representing rooted trees `+`
@@ -16,7 +16,7 @@ Real **Python codes** in ***Introduction to Algorithm***, 3rd Edition (The MIT P
   <br>11.3 Hash functions `+`
   <br>11.4 Open addressing `+`
   
-**12. Binary Search Trees**
+12. Binary Search Trees
   <br>12.1 What is a binary search tree `+`
   <br>12.2 Querying a binary search tree
  
