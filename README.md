@@ -10,7 +10,7 @@ Real **Python codes** in ***Introduction to Algorithm***, 3rd Edition (The MIT P
   <br>10.2 Linked lists `+`
   <br>10.4 Representing rooted trees `+`
   
-**11. Hash Tables**
+11. Hash Tables
   <br>11.1 Direct-address tables `+`
   <br>11.2 Hash tables
   <br>11.3 Hash functions `+`
