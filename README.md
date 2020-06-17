@@ -14,6 +14,11 @@ Real **Python codes** in ***Introduction to Algorithm***, 3rd Edition (The MIT P
   <br>11.1 Direct-address tables `+`
   <br>11.2 Hash tables
   <br>11.3 Hash functions `+`
+  <br>11.4 Open addressing `+`
+  
+12. Binary Search Trees
+  <br>12.1 What is a binary search tree `+`
+  <br>12.2 Querying a binary search tree
  
 * `+` includes Python codes in exercise
 * All the codes were tested locally before upload;
