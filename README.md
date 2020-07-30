@@ -1,5 +1,5 @@
 # CLRS-in-Python
-Real **Python codes** in ***Introduction to Algorithm***, 3rd Edition (The MIT Press) by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Riverest and Clifford Stein (**CLRS**)
+**Python codes** in ***Introduction to Algorithm***, 3rd Edition (The MIT Press) by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Riverest and Clifford Stein (**CLRS**)
 ## Actively recruiting contributors: 
 * Beginners who are passionate in Python are also welcome!
 * Want to join this exciting project? Just start from downloading a Jupyter Notebook and learn some Markdown!
@@ -32,6 +32,10 @@ Real **Python codes** in ***Introduction to Algorithm***, 3rd Edition (The MIT P
   <br>15.1 Rod cutting `+`
   <br>15.2 Matrix-chain multiplication `+`
   <br>15.3 Elements of dynamic programming
+  <br>15.4 Longest common subsequence `+`
+  <br>15.5 Optimal binary search trees `+`
+  
+16. Greedy Algorithms
 
 * `+` includes Python codes in exercise
 * All the codes were tested locally before upload;
