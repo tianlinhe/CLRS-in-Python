@@ -37,25 +37,19 @@
   
 16. Greedy Algorithms
 
-	<br>
-
 	16.1 An activity-selection problem `+`
 
 ### VI Graph Algorithms
 
 22. Elementary Graph Algorithms
 
-	<br> 22.1 Representations of graphs
-
-	<br>
+	22.1 Representations of graphs
 
 	22.2 Breath-first search
 
-	<br>
-
 	22.3 Depth-first search `+`
 
-	<br> 22.4 Topological sort `+`
+	22.4 Topological sort `+`
 
 * `+` includes Python codes in exercise
 * All the codes were tested locally before upload;
